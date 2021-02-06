@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+    <string name="john_doe">John Doe</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t Have an Account? Sign Up Now</string>
+    <string name="mobile_number_10_digits">Mobile Number(10 digits)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_min_3_characters">Name(Min 3 characters)</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number">Mobile Number (10 digits)</string>
+    <string name="password_min_4_characters">Password (Min 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_shared_preferences">Login Shared Preferences</string>
+    <string name="register_shared_preferences">Register Shared Preferences</string>
+    <string name="otp_4_characters">OTP (4 characters)</string>
+    <string name="new_password_min_4_characters">New Password (Min. 4 characters)</string>
+    <string name="enter_the_received_otp_below">Enter the received OTP below</string>
+    <string name="next">Next</string>
+    <string name="enter_your_registered_mobile_number_and_email_below">Enter your registered mobile number and email below :</string>
+    <string name="forgot_password1">forgot password?</string>
+    <string name="mobile_number_10_digits1">Mobile Number (10 digits)</string>
+    <string name="email_address1">Email Address</string>
+    <string name="new_password_min_4_characters1">New Password (Min. 4 characters)</string>
+    <string name="answer_one">A.1 You will be taught using pre-recorded videos and text tutorials. The training has quizzes, assignments, and tests to help you learn better. At the end of the training, you will attempt a project to get hands-on practice of what you learn during your training.</string>
+    <string name="answer_two"><![CDATA[A.2 As this is a purely online training program, you can choose to learn at any time of the day. We will recommend a pace to be followed throughout the program, but the actual timings and learning hours can be decided by students according to their convenience.]]></string>
+    <string name="answer_three">A.3 The training duration is of 6 weeks.</string>
+    <string name="answer_four">A.4 We recommend spending 10-12 hours per week. However, the actual learning hours can be decided by you as per your convenience.</string>
+    <string name="answer_five">A.5 You can choose your preferred batch date while signing up for the training program.</string>
+    <string name="answer_six">A.6 You will be able to download the certificate once you complete your training and take the final test.</string>
+    <string name="filter">Filter</string>
+
+    <array name="filters">
+    <item>Cost(Low to High)</item>
+    <item>Cost(High to Low)</item>
+    <item>Rating</item>
+    </array>
+
+</resources>
